@@ -1,0 +1,22 @@
+.Post {
+  margin-bottom: 45px;
+}
+
+.Post-formComp {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* box-shadow: 0 15px 25px rgba(0,0,0,.6); */
+    border-radius: 10px;
+}
+
+input:invalid {
+    /* background-color: ivory; */
+    /* border: none; */
+    outline: 2px solid red;
+    /* border-radius: 5px; */
+}
+
+.Post-formComp button {
+  border: 1px solid white;
+}

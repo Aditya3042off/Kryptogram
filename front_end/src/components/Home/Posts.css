@@ -1,0 +1,7 @@
+.Posts {
+    width: 60%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}

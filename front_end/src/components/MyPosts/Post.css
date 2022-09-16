@@ -1,0 +1,14 @@
+.M_Post {
+    width:60%;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 45px;
+    font-size: 18px;
+}
+
+.M_Post-userInfo {
+    display: flex;
+    flex-direction: row;
+    gap: 12;
+    align-items: center
+}
